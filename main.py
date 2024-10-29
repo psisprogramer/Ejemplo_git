@@ -4,6 +4,7 @@ print("1. suma")
 print("2. resta")
 print("3. multiplicación")
 print("4. división")
+print("5. otra cosa")
 print("0. Salir")                        
 opcion = input("--Ingresa una opción: ")
 
